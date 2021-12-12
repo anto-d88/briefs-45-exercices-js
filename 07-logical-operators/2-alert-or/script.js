@@ -1,4 +1,5 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
+/*  
+1 ET 2 SONT RETOURNER 
+DABOR alert(1) RENVOI 1 PUIS L'OPERATEUR LOGIQUE || 
+RENVOIE LA PREMIER VALEUR TRUE EN PARTANT DE LA GAUCHE
 */
