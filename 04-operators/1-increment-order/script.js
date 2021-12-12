@@ -1,4 +1,2 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
+/*  les valeurs Final sont a=2 b=2 c=2 d=1
 */
