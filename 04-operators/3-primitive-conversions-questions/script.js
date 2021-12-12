@@ -1,4 +1,16 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
+/* 
+"10"   
+-1
+1
+2
+6
+"9px"
+"$45"
+2
+NaN
+"  -9  5"
+-14
+1
+NaN
+-2
 */
