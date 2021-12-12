@@ -1,4 +1,3 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
+/*  
+ICI 2 EST RENVOYER CAR L'OPERATEUR LOGIQUE || RETURN LA PREMIERE VALEUR TRUE
 */
