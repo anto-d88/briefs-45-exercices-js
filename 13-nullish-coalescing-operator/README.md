@@ -6,9 +6,10 @@
 ```js
 let banane;
 
-alert(banane ?? "pomme");
+alert(banane ?? "pomme"); 
 
 ```
+## AFFICHE "pmme"
 
 ## Quelle est la valeur de retour ce code ?
 
@@ -17,7 +18,9 @@ let banane = "Trop bon";
 
 alert(banane ?? "pomme");
 
+
 ```
+## AFFICHE "Trop bon"
 
 # Comparison with "||"
 
@@ -28,7 +31,9 @@ let banane = null;
 
 
 alert(pomme || poire || banane || "pas bon.");
+
 ```
+## AFFICHE "Trop bon"
 
 
 ## Après avoir effectué les exercices précédent pouvez vous dire:
@@ -52,10 +57,14 @@ alert(pomme || poire || banane || "pas bon.");
 
 ```js
 let fruit = "poire" && "pomme" ?? "banane"
+
 ```
+## ERREUR DE SYNTAXE
 
 ```js
 let fruit = ("poire" && "pomme") ?? "banane"
 
 alert(fruit)
+
 ```
+## AFFICHE "pomme"
