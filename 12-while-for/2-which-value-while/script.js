@@ -1,4 +1,6 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
+/*  
+LA BOUCLE 1 AFFICHE 4 ET LA BOUCLE 2 AFFICHE 5 
+
+LE ++i AFFICHE LA VALEUR PRECEDENT L'INCREMENTATION 
+TANDI QUE i++ AFFICHE LA VALEUR APRES L'INCREMENTATION
 */
