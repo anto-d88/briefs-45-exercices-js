@@ -1,4 +1,6 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
+/* 
+3 EST RETOURNER CAR && EST LUE EN PREMIER A CAUSE DE SA PRECEDANCE PLUS FORTE 
+DONC 2 && 3 RETOURNE 3 CAR SI IL N'Y A PAS DE VALEUR FALSE IL RETOURNE LA DERNIERE 
+VALEUR.
+ET PUIT L'OPERATEUR LOGIQUE || RETURNE LA PREMIER VALEUR TRUE
 */
